@@ -1,0 +1,287 @@
+[{
+  "_id": {
+    "$oid": "6662eda0eb805b2b1040cff5"
+  },
+  "nameRoom": "Phong A1",
+  "desc": "phong vip",
+  "priceRoom": 1500000,
+  "typeRoom": "Vip",
+  "countPeople": 4,
+  "typePayment": "CASH",
+  "status": "PAYED",
+  "noteBooking": "oke"
+},
+{
+  "_id": {
+    "$oid": "66634b5354f635c55b5862b5"
+  },
+  "room": {
+    "idRoom": {
+      "$oid": "6663465f54f635c55b586243"
+    },
+    "nameRoom": "Phòng A1",
+    "imageRoom": [],
+    "desc": "phòng siêu vip",
+    "piceRoom": 1500000,
+    "typeRoom": "Vip",
+    "countPeople": 3,
+    "people": 1,
+    "startDate": {
+      "$date": "2024-06-08T05:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2024-06-10T05:00:00.000Z"
+    }
+  },
+  "userId": {
+    "$oid": "6662be8f4b66b2e4ede5bf1a"
+  },
+  "typePayment": "VNPAY",
+  "price": 3465000,
+  "status": "PAYED",
+  "noteBooking": "thanh toán online",
+  "createdAt": {
+    "$date": "2024-06-07T18:02:59.527Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-07T18:05:30.395Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66634e1654f635c55b586332"
+  },
+  "room": {
+    "idRoom": {
+      "$oid": "6663475f54f635c55b586285"
+    },
+    "nameRoom": "Phòng B1",
+    "imageRoom": [],
+    "desc": "Phòng sinh viên",
+    "piceRoom": 1000000,
+    "typeRoom": "Normal",
+    "countPeople": 4,
+    "people": 2,
+    "startDate": {
+      "$date": "2024-06-07T18:13:00.000Z"
+    },
+    "endDate": {
+      "$date": "2024-06-08T18:14:00.000Z"
+    }
+  },
+  "userId": {
+    "$oid": "6662be8f4b66b2e4ede5bf1a"
+  },
+  "typePayment": "VNPAY",
+  "price": 1099982,
+  "status": "PENDING",
+  "noteBooking": "oke",
+  "createdAt": {
+    "$date": "2024-06-07T18:14:46.247Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-07T18:14:48.386Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666432d752e6392fe09262fc"
+  },
+  "room": {
+    "idRoom": {
+      "$oid": "6663465f54f635c55b586243"
+    },
+    "nameRoom": "Phòng A1",
+    "imageRoom": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F320737056?alt=media&token=a3aca1b0-d5d7-42ba-b85e-c2659cc5bb7e",
+        "_id": {
+          "$oid": "6663c4aa81b7f7c8afed7886"
+        }
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F965447940?alt=media&token=47271fc3-8c08-4ac9-bdd5-855c77035c93",
+        "_id": {
+          "$oid": "6663c4aa81b7f7c8afed7887"
+        }
+      }
+    ],
+    "desc": "phòng siêu vip",
+    "piceRoom": 1500000,
+    "typeRoom": "Vip",
+    "countPeople": 3,
+    "people": 1,
+    "startDate": {
+      "$date": "2024-06-08T05:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2024-06-10T05:00:00.000Z"
+    }
+  },
+  "userId": {
+    "$oid": "6662be8f4b66b2e4ede5bf1a"
+  },
+  "typePayment": "CASH",
+  "price": 3465000,
+  "status": "PAYED",
+  "noteBooking": "",
+  "createdAt": {
+    "$date": "2024-06-08T10:30:47.690Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T10:30:51.037Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666439e452e6392fe0926410"
+  },
+  "room": {
+    "idRoom": {
+      "$oid": "6663475f54f635c55b586285"
+    },
+    "nameRoom": "Phòng B1",
+    "imageRoom": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F620841062?alt=media&token=39b75cc8-db4e-4313-b39b-aa31fa9c87ee",
+        "_id": {
+          "$oid": "6663c5b181b7f7c8afed78fb"
+        }
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F2067376715?alt=media&token=58a4dd79-20d2-488b-b2b5-44fc5ad30d47",
+        "_id": {
+          "$oid": "6663c5b181b7f7c8afed78fc"
+        }
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F277784921?alt=media&token=56c74227-68cd-40e8-9b35-5ff83881f44e",
+        "_id": {
+          "$oid": "6663c5b181b7f7c8afed78fd"
+        }
+      }
+    ],
+    "desc": "Phòng sinh viên",
+    "piceRoom": 1000000,
+    "typeRoom": "Normal",
+    "countPeople": 4,
+    "people": 2,
+    "startDate": {
+      "$date": "2024-06-10T05:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2024-06-12T05:00:00.000Z"
+    }
+  },
+  "userId": {
+    "$oid": "6662be8f4b66b2e4ede5bf1a"
+  },
+  "typePayment": "CASH",
+  "price": 2199965,
+  "status": "PENDING",
+  "noteBooking": "oke",
+  "createdAt": {
+    "$date": "2024-06-08T11:00:52.593Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T11:00:56.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "666511b643780dab2d7a6c79"
+  },
+  "room": {
+    "idRoom": {
+      "$oid": "6663465f54f635c55b586243"
+    },
+    "nameRoom": "Phòng A1",
+    "imageRoom": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F320737056?alt=media&token=a3aca1b0-d5d7-42ba-b85e-c2659cc5bb7e",
+        "_id": {
+          "$oid": "6663c4aa81b7f7c8afed7886"
+        }
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F965447940?alt=media&token=47271fc3-8c08-4ac9-bdd5-855c77035c93",
+        "_id": {
+          "$oid": "6663c4aa81b7f7c8afed7887"
+        }
+      }
+    ],
+    "desc": "phòng siêu vip",
+    "piceRoom": 1500000,
+    "typeRoom": "Vip",
+    "countPeople": 3,
+    "people": 2,
+    "startDate": {
+      "$date": "2024-06-10T05:00:00.000Z"
+    },
+    "endDate": {
+      "$date": "2024-06-12T05:00:00.000Z"
+    }
+  },
+  "userId": {
+    "$oid": "6662be8f4b66b2e4ede5bf1a"
+  },
+  "typePayment": "CASH",
+  "price": 3465000,
+  "status": "PAYED",
+  "noteBooking": "",
+  "createdAt": {
+    "$date": "2024-06-09T02:21:42.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T02:21:45.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66652b4ef1f39e8b6fb4c631"
+  },
+  "room": {
+    "idRoom": {
+      "$oid": "66652b08f1f39e8b6fb4c5ee"
+    },
+    "nameRoom": "Phòng C1",
+    "imageRoom": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F1195121248?alt=media&token=727938dc-e303-4c8f-82f5-ed810e925bad",
+        "_id": {
+          "$oid": "66652b08f1f39e8b6fb4c5ef"
+        }
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F1781419477?alt=media&token=5680d491-12f4-42cc-a823-3b2f3475b697",
+        "_id": {
+          "$oid": "66652b08f1f39e8b6fb4c5f0"
+        }
+      }
+    ],
+    "desc": "Phòng bình dân",
+    "piceRoom": 1200000,
+    "typeRoom": "Normal",
+    "countPeople": 4,
+    "people": 2,
+    "startDate": {
+      "$date": "2024-06-09T04:10:00.000Z"
+    },
+    "endDate": {
+      "$date": "2024-06-10T04:10:00.000Z"
+    }
+  },
+  "userId": {
+    "$oid": "66652b2bf1f39e8b6fb4c60a"
+  },
+  "typePayment": "CASH",
+  "price": 1320000,
+  "status": "PAYED",
+  "noteBooking": "",
+  "createdAt": {
+    "$date": "2024-06-09T04:10:54.635Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T04:10:57.309Z"
+  }
+}]

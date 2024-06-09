@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "6663465f54f635c55b586243"
+  },
+  "name": "Phòng A1",
+  "desc": "phòng siêu vip",
+  "image": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F320737056?alt=media&token=a3aca1b0-d5d7-42ba-b85e-c2659cc5bb7e",
+      "_id": {
+        "$oid": "6663c4aa81b7f7c8afed7886"
+      }
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F965447940?alt=media&token=47271fc3-8c08-4ac9-bdd5-855c77035c93",
+      "_id": {
+        "$oid": "6663c4aa81b7f7c8afed7887"
+      }
+    }
+  ],
+  "type": "Vip",
+  "status": "0",
+  "countPeople": 3,
+  "price": 1500000,
+  "active": "Active",
+  "evaluate": [],
+  "createdAt": {
+    "$date": "2024-06-07T17:41:51.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T02:40:42.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6663475f54f635c55b586285"
+  },
+  "name": "Phòng B1",
+  "desc": "Phòng sinh viên",
+  "image": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F620841062?alt=media&token=39b75cc8-db4e-4313-b39b-aa31fa9c87ee",
+      "_id": {
+        "$oid": "6663c5b181b7f7c8afed78fb"
+      }
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F2067376715?alt=media&token=58a4dd79-20d2-488b-b2b5-44fc5ad30d47",
+      "_id": {
+        "$oid": "6663c5b181b7f7c8afed78fc"
+      }
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F277784921?alt=media&token=56c74227-68cd-40e8-9b35-5ff83881f44e",
+      "_id": {
+        "$oid": "6663c5b181b7f7c8afed78fd"
+      }
+    }
+  ],
+  "type": "Normal",
+  "status": "0",
+  "countPeople": 4,
+  "price": 1000000,
+  "active": "Active",
+  "evaluate": [],
+  "createdAt": {
+    "$date": "2024-06-07T17:46:07.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-08T02:45:05.479Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66652b08f1f39e8b6fb4c5ee"
+  },
+  "name": "Phòng C1",
+  "desc": "Phòng bình dân",
+  "image": [
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F1195121248?alt=media&token=727938dc-e303-4c8f-82f5-ed810e925bad",
+      "_id": {
+        "$oid": "66652b08f1f39e8b6fb4c5ef"
+      }
+    },
+    {
+      "url": "https://firebasestorage.googleapis.com/v0/b/xep-tin-kma.appspot.com/o/images%2F1781419477?alt=media&token=5680d491-12f4-42cc-a823-3b2f3475b697",
+      "_id": {
+        "$oid": "66652b08f1f39e8b6fb4c5f0"
+      }
+    }
+  ],
+  "type": "Normal",
+  "status": "0",
+  "countPeople": 4,
+  "price": 1200000,
+  "active": "Active",
+  "evaluate": [],
+  "createdAt": {
+    "$date": "2024-06-09T04:09:44.876Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-09T04:09:44.876Z"
+  }
+}]
